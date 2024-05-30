@@ -1,5 +1,3 @@
-# Onslow College Digital Technologies
-
 ## Java Template
 
 Use this template to develop a text-based program in Java 16.
