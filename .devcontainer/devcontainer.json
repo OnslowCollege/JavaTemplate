@@ -1,5 +1,8 @@
 {
     "image": "mcr.microsoft.com/devcontainers/java:17",
+    "features": {
+        "ghcr.io/devcontainers/features/desktop-lite:1": {}
+    },
     "customizations": {
         "vscode": {
             "extensions": [
@@ -73,6 +76,5 @@
                 }
             }
         }
-    },
-    "postStartCommand": "bash -c git remote set-url origin 'https://github.com/OnslowCollege/$(basename $(pwd))'"
+    }
 }
