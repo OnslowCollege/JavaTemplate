@@ -1,6 +1,6 @@
 ## Java Template
 
-Use this template to develop a text-based program in Java 16.
+Use this template to develop a text-based program in Java 21.
 
 This template includes:
 

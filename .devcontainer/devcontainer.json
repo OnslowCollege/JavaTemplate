@@ -1,8 +1,5 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/java:17",
-    "features": {
-        "ghcr.io/devcontainers/features/desktop-lite:1": {}
-    },
+    "image": "mcr.microsoft.com/devcontainers/java:21",
     "customizations": {
         "vscode": {
             "extensions": [
@@ -19,8 +16,6 @@
                 "seunlanlege.action-buttons"
             ],
             "settings": {
-                "gitlens.showWhatsNewAfterUpgrades": false,
-                "gitlens.showWelcomeOnInstall": false,
                 "editor.wordWrap": "on",
                 "editor.inlayHints.enabled": "off",
                 "editor.fontSize": 16,
